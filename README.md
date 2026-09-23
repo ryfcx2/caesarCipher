@@ -1,6 +1,6 @@
 # Caesar Cipher
 
-### [🔗 GitHub: @ryfcx](https://github.com/ryfcx)
+### [🔗 My Main GitHub: @ryfcx](https://github.com/ryfcx)
 
 A simple command-line Caesar cipher program written in Python that can encrypt and decrypt words using a user-defined shift value. Made for my CSP2 (Computer Science Principles 2) Highschool course.
 
